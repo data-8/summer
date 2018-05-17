@@ -10,11 +10,20 @@
     <h4>A Short Course for UC Berkeley Faculty</h4>
 
     <br>
+<<<<<<< HEAD
+    <b>Instructors:</b> Sarah Reynolds (Economics) and David Wagner (Computer Science)<br>
+    <b>Dates:</b> Monday June 5th - Friday June 9th, 2017<br>
+=======
     <b>Instructors:</b> David Wagner (Computer Science), 
     Eric Van Dusen (DSEP),
     and Ryan Edwards (DSEP)
     <br>
+<<<<<<< HEAD
     <b>Dates:</b> Monday June 4, 2018 - Friday June 8, 2018<br>
+=======
+    <b>Dates:</b> Monday June 4 2018 - Friday June 8, 2018<br>
+>>>>>>> origin/gh-pages
+>>>>>>> 79f844ce0d23ba748a251ba0062f9c5ec2597ed4
     <b>Location:</b> the Academic Innovation Studio, 117 Dwinelle (level D)<br>
     <b>Textbook:</b> <i><a href="https://www.inferentialthinking.com/">Computational and Inferential Thinking</a></i>, Adhikari and DeNero.<br>
     <b>Labs:</b>
@@ -34,7 +43,10 @@
     Look through <a href="https://www.inferentialthinking.com/">the textbook</a> (optional).<br>
 
     <br>
+<<<<<<< HEAD
+=======
 <!--
+>>>>>>> origin/gh-pages
     <b>Office Hours:</b> Held in 105 Cory before the course (times below) to answer any questions about the lab or textbook:
     <ul>
     <li>Wednesday, May 31, 10am - 12pm
@@ -42,8 +54,13 @@
     <li>Friday, June 2, 10am - 12pm
     <li>Friday, June 2, 2pm - 4pm
     </ul>
+<<<<<<< HEAD
+      
+    <b>Ohter Links:</b><br>
+=======
 -->      
     <b>Other Links:</b><br>
+>>>>>>> origin/gh-pages
     <a href="https://goo.gl/forms/WHzB68euIaIRIRXG2">Feedback Survey</a> (answer by June 16th for a chance to win an Amazon gift card!)<br>  
     <a href="https://goo.gl/forms/WMSt8UDB8uOcwdus2">Connector Interest Form</a><br>
     <a href="https://goo.gl/forms/559cZaIWT5HWyfSf2">Modules Interest Form</a><br>
