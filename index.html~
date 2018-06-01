@@ -3,11 +3,11 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>UC Berkeley Data Science Summer Short Course</title>
+    <title>UC Berkeley Data Science Summer Short Course 2018</title>
   </head>
   <body>
     <h3>Data Science Pedagogy and Practice</h3>
-    <h4>A Short Course for UC Berkeley Faculty</h4>
+    <h4>A Short Course for UC Berkeley Faculty in Summer 2018</h4>
 
     <br>
     <b>Instructors:</b> David Wagner (Computer Science), 
@@ -15,22 +15,23 @@
     and Ryan Edwards (DSEP)
     <br>
     <b>Dates:</b> Monday June 4, 2018 - Friday June 8, 2018<br>
-    <b>Location:</b> the Academic Innovation Studio, 117 Dwinelle (level D)<br>
+    <b>Location:</b> the <a href="https://ais.berkeley.edu/">Academic Innovation Studio</a>, 
+    117 Dwinelle (level D)<br>
     <b>Textbook:</b> <i><a href="https://www.inferentialthinking.com/">Computational and Inferential Thinking</a></i>, Adhikari and DeNero.<br>
     <b>Labs:</b>
-    <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su17/labs/lab01/">lab 1</a>,
-    <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su17/labs/lab02/">lab 2</a>,
-    <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su17/labs/lab03/">lab 3</a>.<br>
+    <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su18/labs/lab01/">lab 1</a>,
+    <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su18/labs/lab02/">lab 2</a>,
+    <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su18/labs/lab03/">lab 3</a>.<br>
     <b>Lecture slides:</b>
     <a href="https://docs.google.com/presentation/d/1bR8jrz1DfdopnTZ-2HtRDQu4WTxNooe76WLwqw48iVg/pub?start=false&loop=false&delayms=60000">lecture 1</a>,
     <a href="https://drive.google.com/file/d/0BwTHnlJ1gysTdDdXV2FGbmNEcDg/view?usp=sharing">privacy</a>,
     <a href="https://docs.google.com/presentation/d/1ymMvkAUT3L0liW-7j3Rz2Q_0Q31ziMJ13uXgQXze_Og/pub?start=false&loop=false&delayms=60000">lecture 2</a>,
     <a href="https://docs.google.com/presentation/d/1c2y3DjOeWkl4rNa2QQL0rbipOXoEyXrrLec9y9cWS3Y/pub?start=false&loop=false&delayms=60000">lecture 3</a>.<br>
     <b>Lecture notebooks:</b>
-    <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su17/lecs/">here</a>.<br>
+    <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su18/lecs/">here</a>.<br>
     <b>Questions?</b> Post them to <a href="http://piazza.com/berkeley/summer2017/datascienceworkshop">Piazza</a>.<br>
     <b>Want to prepare, before the course?</b>
-    Work through <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su17/labs/lab01/">lab 1</a> on your own (optional).
+    Work through <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=summer&branch=gh-pages&path=su18/labs/lab01/">lab 1</a> on your own (optional).
     Look through <a href="https://www.inferentialthinking.com/">the textbook</a> (optional).<br>
 
     <br>
@@ -45,7 +46,10 @@
 -->      
     <b>Other Links:</b><br>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSeE4ZKawlynZdCNSqjg3SWaM2ZP1Nh-3_JSEc_j8XInExKiRA/viewform?usp=sf_link">Feedback Survey</a> <br>  
-    <a href="https://goo.gl/forms/WMSt8UDB8uOcwdus2">Connector Interest Form</a><br>
+    <a href="https://goo.gl/forms/WMSt8UDB8uOcwdus2">Connector
+    Interest Form</a>
+    | <a href="https://dsep.gitbooks.io/connector-guide/content/">Connector Guide</a>
+    <br>
     <a href="https://goo.gl/forms/559cZaIWT5HWyfSf2">Modules Interest Form</a><br>
     <a href="http://data8.org/summer/su16/labs.html">Summer 2016 Workshop Labs</a><br>
 
