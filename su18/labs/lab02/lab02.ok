@@ -1,6 +1,6 @@
 {
   "name": "Lab 2",
-  "endpoint": "cal/ds101/su17/lab02",
+  "endpoint": "cal/dsep8/su18/lab02",
   "src": [
     "lab02.ipynb"
   ],
